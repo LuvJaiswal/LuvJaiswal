@@ -41,9 +41,7 @@
 <br/>
 <a href="https://github.com/LuvJaiswal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuvJaiswal&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvJaiswal&theme=buefy&layout=compact&a&count_private=true)" />
-  
-  [![LuvJaiswal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuvJaiswal)](https://github.com/LuvJaiswal/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvJaiswal&theme=buefy&layout=compact&&langs_count=8&count_private=true)" />
 
 </a>
 <br/>
