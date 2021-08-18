@@ -45,8 +45,6 @@
 </a>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuvJaiswal&repo=github-readme-stats)](https://github.com/LuvJaiswal/github-readme-stats)
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
