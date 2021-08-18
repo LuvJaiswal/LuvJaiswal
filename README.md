@@ -42,6 +42,8 @@
 <a href="https://github.com/LuvJaiswal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuvJaiswal&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvJaiswal&theme=buefy&layout=compact" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuvJaiswal&langs_count=10)](https://github.com/LuvJaiswal/github-readme-stats)
 </a>
 <br/>
 
