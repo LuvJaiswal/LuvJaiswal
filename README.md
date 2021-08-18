@@ -51,6 +51,7 @@
 <a href="https://www.linkedin.com/in/luv-jaiswal-96a459163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luv-jaiswal-96a459163-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/shravan_cypher/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shravan_cypher-blue?style=flat-square&logo=instagram"></a>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvJaiswal&show_icons=true&theme=radical)
+[![LuvJaiswal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuvJaiswal)](https://github.com/LuvJaiswal/github-readme-stats)
 
 
 </p>
