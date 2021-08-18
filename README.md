@@ -52,7 +52,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/luv-jaiswal-96a459163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luv-jaiswal-96a459163-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/shravan_cypher/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shravan_cypher-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:jaiswallove20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jaiswallove20@gmail.com-blue?style=flat-square&logo=gmail"></a>
+![Love Jaiswal's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvJaiswal&show_icons=true&theme=radical)
+
 </p>
 
 ⭐️ From [LuvJaiswal](https://github.com/LuvJaiswal)
