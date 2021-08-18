@@ -43,6 +43,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuvJaiswal&theme=buefy&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvJaiswal&theme=buefy&layout=compact&&langs_count=8)" />
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuvJaiswal&repo=github-readme-stats)](https://github.com/LuvJaiswal/github-readme-stats)
+
 </a>
 <br/>
 
