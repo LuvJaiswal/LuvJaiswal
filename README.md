@@ -50,7 +50,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luv-jaiswal-96a459163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luv-jaiswal-96a459163-blue?style=flat-square&logo=linkedin"></a>
- <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/luv-jaiswal-96a459163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
   
   <a href="https://www.linkedin.com/in/LuvJaiswal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luv-jaiswal-96a459163-blue?style=flat-square&logo=linkedin"></a>
   
