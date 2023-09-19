@@ -1,12 +1,12 @@
-### <h2>नमस्ते (Namaste)🙏🏻, I'm [Your Name]!
-</br>
+### <h2>नमस्ते (Namaste)🙏🏻, I'm Love Jaiswal!
+  </br>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Passionate about exploring new technologies and crafting software solutions.
-- 🎓 &nbsp; Graduated with a Bachelor's in Computer Science from [Your University].
-- 💼 &nbsp; Currently working as a Full-stack Developer, specializing in Mobile and Web applications.
-- 🌱 &nbsp; Continuously learning about Cloud Architecture, Systems Design, and Intelligent Systems.
-- ✍️ &nbsp; Embracing Graphic Design and Blog Writing as my creative outlets.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studied Bachelor's in Computer Science at Leeds Beckett University.
+- 💼 &nbsp; Working as a Full stack Mobile and Web app developer
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Intelligence System.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -39,9 +39,9 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-<a href="https://github.com/[Your GitHub Username]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&theme=tokyonight&show_icons=true&count_private=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&theme=buefy&layout=compact&&langs_count=8)" />
+<a href="https://github.com/LuvJaiswal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuvJaiswal&theme=tokyonight&show_icons=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvJaiswal&theme=buefy&layout=compact&&langs_count=8)" />
 </a>
 <br/>
 
@@ -49,8 +49,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="[Your LinkedIn Profile URL]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[Your Name]-blue?style=flat-square&logo=linkedin"></a>
-<a href="[Your Instagram Profile URL]"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-[Your Instagram Username]-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/lovejaiswal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lovejaiswal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/shravan_cypher/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shravan_cypher-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ⭐️ From [LuvJaiswal](https://github.com/LuvJaiswal)
+
